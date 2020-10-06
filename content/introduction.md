@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
+title: "Presentacion"
 metaTitle: "This is the title tag of this page"
 metaDescription: "This is the meta description"
 ---
 
 Some introduction text. Lists out all the headings from h1 to h6. Easy to customise.
 
-# Heading H1
-Heading 1 text
+# Hola
+Soy Nicolás Delgado
 
 ## Heading H2
 Heading 2 text
